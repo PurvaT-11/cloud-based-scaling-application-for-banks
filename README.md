@@ -31,7 +31,7 @@ This project simulates an **auto-scaling banking application** built using the f
 
 The project is documented in detail in the attached **PDF report**, which explains the architecture, components, deployment procedures, security considerations, and more. The report is designed to provide a comprehensive view of how the system works and the AWS services used in the implementation.
 
-- [AWS Auto-Scaling Banking Application Report](AWS_Auto_Scaling_Banking_Application_Report.pdf)
+- [AWS Auto-Scaling Banking Application Report](https://drive.google.com/file/d/1awhXmL2AKC6FTkZNGj33vAWO3AtfnuSy/view?usp=sharing)
 
 ### Included in the PDF Report:
 1. **System Architecture**: High-level diagram of how traffic flows through the system.
