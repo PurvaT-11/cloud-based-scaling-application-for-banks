@@ -67,9 +67,4 @@ This was just the first step in exploring cloud architecture and scaling techniq
 
 This project gave me a foundational understanding of how large-scale cloud applications manage traffic, scale with demand, and maintain high availability. I’m excited to continue learning and building on this knowledge to develop more advanced cloud-based systems.
 
----
-
-### **License**
-
-This project is open-source and available for anyone to explore and learn from.
 
